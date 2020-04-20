@@ -1,4 +1,3 @@
-# deteccao_de_areas_verdes
-Utilizamos Python OpenCV para desenvolvimento do projeto de visão computacional que dá enfase a técnica de Decorrelação por Alongamento.
+# green_areas_detection
 
-Projeto desenvolvido coo parte dos requisitos de avaliação na matéria de Computação Gráfica, pela EMAp - FGV.
+Ue use Decorrelation Stretching, an algebraic statistical method for detection of green areas in Satelite Pictures. It should be usefull in devellopment of high precision simulations, for example, at gene or epidemia simulations over cityes and countries.
